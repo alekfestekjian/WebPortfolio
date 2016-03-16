@@ -1,0 +1,57 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>CS 242 portfolio</title>
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+  <link href="../static/default.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="../static/fonts.css" rel="stylesheet" type="text/css" media="all" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+</head>
+<!--  Header for the page-->
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href="#">Alek Festekjian</a></h1>
+		</div>
+		<div id="menu">
+			<ul>
+				<li><a href="." accesskey="3" title="">About Me</a></li>
+				<li><a  href="//alekfestekjian.com" target="_blank">Visit my portfolio!</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div id="portfolio" class="container">
+  <!-- Iterate through svn list to find all entries that belongs to assigment you clicked -->
+  {% for entry in svn_list %}
+       {% if entry["belongs"] is equalto assignment %}
+         {% if entry["kind"] is equalto "file" %}
+         <h1><a href= "/{{assignment}}/{{entry["filename"]}}" ><i class="fa fa-file" class="button"></i>{{ entry["filename"]}}</a></h1>
+         <p>Author: {{entry["author"]}} <br>
+         File size: {{entry["size"]}} bytes <br>
+         File type: {{entry["filetype"]}} <br>
+         File path: {{entry["filepath"]}} <br>
+         Revision: {{entry["revision"]}} <br>
+
+         {#Find most recent revision and commit #}
+
+         {% for log in svn_log %}
+               {% if log["assignment"] is equalto assignment %}
+                 {% if log["date"] is equalto entry["date"] %}
+                   Most recent commit: {{log["message"]}}</p>
+                 {% endif %}
+               {% endif %}
+         {% endfor %}
+        {% block body %}{% endblock %}
+
+        {% endif %}
+       {% endif %}
+  {% endfor %}
+
+</div>
+</html>

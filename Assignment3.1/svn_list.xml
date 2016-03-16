@@ -1,0 +1,4859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp16-cs242/festekj2">
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/copyright</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/misc.xml</name>
+<size>1103</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/workspace.xml</name>
+<size>66833</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0.iml</name>
+<size>761</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/Assignment1.0</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/Assignment1.0/Board</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Board/Board.class</name>
+<size>2308</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/Assignment1.0/Game</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Game/Game.class</name>
+<size>1520</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/Assignment1.0/Pieces</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Pieces/Bishop.class</name>
+<size>2102</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Pieces/King.class</name>
+<size>1075</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Pieces/Knight.class</name>
+<size>998</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Pieces/Pawn.class</name>
+<size>1564</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Pieces/Piece.class</name>
+<size>2790</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Pieces/Queen.class</name>
+<size>2744</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Pieces/Rook.class</name>
+<size>1356</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/Assignment1.0/Player</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Player/Player.class</name>
+<size>3926</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/Assignment1.0/Tests</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Tests/BishopTest.class</name>
+<size>6296</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Tests/BoardTest.class</name>
+<size>3531</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Tests/GameOverTest.class</name>
+<size>790</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Tests/InCheckMateTest.class</name>
+<size>1787</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Tests/InCheckTest.class</name>
+<size>1088</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Tests/KingTest.class</name>
+<size>5989</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Tests/KnightTest.class</name>
+<size>5652</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Tests/PawnTest.class</name>
+<size>7351</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Tests/QueenTest.class</name>
+<size>11765</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Tests/RookTest.class</name>
+<size>8116</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Board</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Board/Board.java</name>
+<size>3388</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Game</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Game/Game.java</name>
+<size>1638</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Pieces</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pieces/Bishop.java</name>
+<size>4969</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pieces/King.java</name>
+<size>1674</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pieces/Knight.java</name>
+<size>1475</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pieces/Pawn.java</name>
+<size>3605</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pieces/Piece.java</name>
+<size>4235</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pieces/Queen.java</name>
+<size>7331</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pieces/Rook.java</name>
+<size>2998</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Player</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Player/Player.java</name>
+<size>7734</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Tests</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/BishopTest.java</name>
+<size>8135</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/BoardTest.java</name>
+<size>3876</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/GameOverTest.java</name>
+<size>479</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/InCheckMateTest.java</name>
+<size>2122</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/InCheckTest.java</name>
+<size>724</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/KingTest.java</name>
+<size>9042</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/KnightTest.java</name>
+<size>8851</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/PawnTest.java</name>
+<size>10144</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/QueenTest.java</name>
+<size>16033</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/RookTest.java</name>
+<size>10572</size>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4770">
+<author>festekj2</author>
+<date>2016-02-11T17:48:02.611503Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/copyright</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>2115</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/workspace.xml</name>
+<size>70970</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1.iml</name>
+<size>761</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>105111</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/Board</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Board/Board.class</name>
+<size>2308</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/Game</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Game/Game.class</name>
+<size>2013</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/Bishop.class</name>
+<size>1671</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/EatOneAndDie.class</name>
+<size>892</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/King.class</name>
+<size>1075</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/Knight.class</name>
+<size>998</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/MoveToEmpty.class</name>
+<size>671</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/Pawn.class</name>
+<size>1564</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/Piece.class</name>
+<size>2854</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/Queen.class</name>
+<size>1298</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/Rook.class</name>
+<size>1356</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/Player</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Player/Player.class</name>
+<size>3985</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/Tests</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/BishopTest.class</name>
+<size>6296</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/BoardTest.class</name>
+<size>3531</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/EatOneAndDieTest.class</name>
+<size>3369</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/GameOverTest.class</name>
+<size>790</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/InCheckMateTest.class</name>
+<size>1787</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/InCheckTest.class</name>
+<size>1088</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/KingTest.class</name>
+<size>5989</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/KnightTest.class</name>
+<size>5652</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/MoveToEmptyTest.class</name>
+<size>2439</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/PawnTest.class</name>
+<size>7351</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/QueenTest.class</name>
+<size>11765</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Tests/RookTest.class</name>
+<size>8116</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/View</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/View/ChessGui.class</name>
+<size>4657</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/Board</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Board/Board.class</name>
+<size>2308</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/Game</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Game/Game.class</name>
+<size>2013</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/GuiTestScript.pdf</name>
+<size>144791</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/Pieces</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Pieces/Bishop.class</name>
+<size>1671</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Pieces/EatOneAndDie.class</name>
+<size>892</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Pieces/King.class</name>
+<size>1075</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Pieces/Knight.class</name>
+<size>998</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Pieces/MoveToEmpty.class</name>
+<size>671</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Pieces/Pawn.class</name>
+<size>1564</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Pieces/Piece.class</name>
+<size>3558</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Pieces/Queen.class</name>
+<size>1303</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Pieces/Rook.class</name>
+<size>1356</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/Player</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Player/Player.class</name>
+<size>3820</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/Tests</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/BishopTest.class</name>
+<size>6369</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/BoardTest.class</name>
+<size>3531</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/EatOneAndDieTest.class</name>
+<size>3385</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/GameOverTest.class</name>
+<size>790</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/InCheckMateTest.class</name>
+<size>1787</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/InCheckTest.class</name>
+<size>1088</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/KingTest.class</name>
+<size>6062</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/KnightTest.class</name>
+<size>5733</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/MoveToEmptyTest.class</name>
+<size>2494</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/PawnTest.class</name>
+<size>7398</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/QueenTest.class</name>
+<size>11765</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Tests/RookTest.class</name>
+<size>8189</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/View</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessGui.class</name>
+<size>4657</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/BlackBishop.png</name>
+<size>3344</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/BlackKing.png</name>
+<size>5038</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/BlackKnight.png</name>
+<size>4022</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/BlackPawn.png</name>
+<size>2199</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/BlackQueen.png</name>
+<size>5353</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/BlackRook.png</name>
+<size>2675</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/WhiteBishop.png</name>
+<size>4425</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/WhiteKing.png</name>
+<size>4859</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/WhiteKnight.png</name>
+<size>4389</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/WhitePawn.png</name>
+<size>3246</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/WhiteQueen.png</name>
+<size>5967</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/View/ChessPiece/WhiteRook.png</name>
+<size>3184</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Board</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Board/Board.java</name>
+<size>4312</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Game</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Game/Game.java</name>
+<size>2519</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/GuiTestScript.pdf</name>
+<size>142664</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Model</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Model/Controller</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Pieces</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Bishop.java</name>
+<size>4517</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/EatOneAndDie.java</name>
+<size>1456</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/King.java</name>
+<size>2257</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Knight.java</name>
+<size>2023</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/MoveToEmpty.java</name>
+<size>1155</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Pawn.java</name>
+<size>4462</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Piece.java</name>
+<size>8099</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Queen.java</name>
+<size>2768</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Rook.java</name>
+<size>3591</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Player</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Player/Player.java</name>
+<size>8878</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Tests</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/BishopTest.java</name>
+<size>8213</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/BoardTest.java</name>
+<size>3876</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/EatOneAndDieTest.java</name>
+<size>4116</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/GameOverTest.java</name>
+<size>479</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/InCheckMateTest.java</name>
+<size>2122</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/InCheckTest.java</name>
+<size>724</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/KingTest.java</name>
+<size>9152</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/KnightTest.java</name>
+<size>8961</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/MoveToEmptyTest.java</name>
+<size>2818</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/PawnTest.java</name>
+<size>10528</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/QueenTest.java</name>
+<size>16033</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/RookTest.java</name>
+<size>10650</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/View</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessGui.java</name>
+<size>6312</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/View/ChessPiece</name>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/BlackBishop.png</name>
+<size>3344</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/BlackKing.png</name>
+<size>5038</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/BlackKnight.png</name>
+<size>4022</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/BlackPawn.png</name>
+<size>2199</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/BlackQueen.png</name>
+<size>5353</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/BlackRook.png</name>
+<size>2675</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/WhiteBishop.png</name>
+<size>4425</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/WhiteKing.png</name>
+<size>4859</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/WhiteKnight.png</name>
+<size>4389</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/WhitePawn.png</name>
+<size>3246</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/WhiteQueen.png</name>
+<size>5967</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessPiece/WhiteRook.png</name>
+<size>3184</size>
+<commit
+   revision="4768">
+<author>festekj2</author>
+<date>2016-02-11T17:46:37.896375Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5897">
+<author>festekj2</author>
+<date>2016-02-18T04:41:48.258030Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/copyright</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/misc.xml</name>
+<size>1885</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/workspace.xml</name>
+<size>71078</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1.iml</name>
+<size>761</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>105111</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/Board</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Board/Board.class</name>
+<size>2308</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/Game</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Game/Game.class</name>
+<size>2013</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/Pieces</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Pieces/Bishop.class</name>
+<size>1671</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Pieces/EatOneAndDie.class</name>
+<size>892</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Pieces/King.class</name>
+<size>1075</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Pieces/Knight.class</name>
+<size>998</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Pieces/MoveToEmpty.class</name>
+<size>671</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Pieces/Pawn.class</name>
+<size>1564</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Pieces/Piece.class</name>
+<size>2854</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Pieces/Queen.class</name>
+<size>1298</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Pieces/Rook.class</name>
+<size>1356</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/Player</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Player/Player.class</name>
+<size>3985</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/Tests</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/BishopTest.class</name>
+<size>6296</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/BoardTest.class</name>
+<size>3531</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/EatOneAndDieTest.class</name>
+<size>3369</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/GameOverTest.class</name>
+<size>790</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/InCheckMateTest.class</name>
+<size>1787</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/InCheckTest.class</name>
+<size>1088</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/KingTest.class</name>
+<size>5989</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/KnightTest.class</name>
+<size>5652</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/MoveToEmptyTest.class</name>
+<size>2439</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/PawnTest.class</name>
+<size>7351</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/QueenTest.class</name>
+<size>11765</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/Tests/RookTest.class</name>
+<size>8116</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/View</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/View/ChessGui.class</name>
+<size>4657</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1/Board</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Board/Board.class</name>
+<size>2313</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1/Game</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Game/Game.class</name>
+<size>2037</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/GuiTestScript.pdf</name>
+<size>142664</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1/Model</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Board</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Board/Board.class</name>
+<size>2374</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Pieces</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Pieces/Bishop.class</name>
+<size>1719</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Pieces/EatOneAndDie.class</name>
+<size>940</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Pieces/King.class</name>
+<size>1111</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Pieces/Knight.class</name>
+<size>1034</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Pieces/MoveToEmpty.class</name>
+<size>713</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Pieces/Pawn.class</name>
+<size>1606</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Pieces/Piece.class</name>
+<size>3817</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Pieces/Queen.class</name>
+<size>2690</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Model/Pieces/Rook.class</name>
+<size>1392</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1/Pieces</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Pieces/Bishop.class</name>
+<size>1671</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Pieces/EatOneAndDie.class</name>
+<size>892</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Pieces/King.class</name>
+<size>1075</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Pieces/Knight.class</name>
+<size>998</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Pieces/MoveToEmpty.class</name>
+<size>671</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Pieces/Pawn.class</name>
+<size>1564</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Pieces/Piece.class</name>
+<size>3558</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Pieces/Queen.class</name>
+<size>1303</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Pieces/Rook.class</name>
+<size>1356</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1/Player</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Player/Player.class</name>
+<size>4387</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1/Tests</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/BishopTest.class</name>
+<size>6503</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/BoardTest.class</name>
+<size>3597</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/EatOneAndDieTest.class</name>
+<size>3530</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/GameOverTest.class</name>
+<size>790</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/InCheckMateTest.class</name>
+<size>1829</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/InCheckTest.class</name>
+<size>1130</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/KingTest.class</name>
+<size>6202</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/KnightTest.class</name>
+<size>5867</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/MoveToEmptyTest.class</name>
+<size>2633</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/PawnTest.class</name>
+<size>7660</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/QueenTest.class</name>
+<size>11813</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/Tests/RookTest.class</name>
+<size>8323</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1/View</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessGui.class</name>
+<size>9377</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/BlackBishop.png</name>
+<size>3344</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/BlackKing.png</name>
+<size>5038</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/BlackKnight.png</name>
+<size>4022</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/BlackPawn.png</name>
+<size>2199</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/BlackQueen.png</name>
+<size>5353</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/BlackRook.png</name>
+<size>2675</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/WhiteBishop.png</name>
+<size>4425</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/WhiteKing.png</name>
+<size>4859</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/WhiteKnight.png</name>
+<size>4389</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/WhitePawn.png</name>
+<size>3246</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/WhiteQueen.png</name>
+<size>5967</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/ChessPiece/WhiteRook.png</name>
+<size>3184</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/Scoreboard$1.class</name>
+<size>1192</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/Scoreboard$2.class</name>
+<size>1636</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.1/View/Scoreboard.class</name>
+<size>1721</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/ChessTestScript.pdf</name>
+<size>2587508</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Game</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Game/Game.java</name>
+<size>2525</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/GuiTestScript.pdf</name>
+<size>142664</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Model</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Model/Board</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Board/Board.java</name>
+<size>4390</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Model/Pieces</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Pieces/Bishop.java</name>
+<size>4536</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Pieces/EatOneAndDie.java</name>
+<size>1468</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Pieces/King.java</name>
+<size>2269</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Pieces/Knight.java</name>
+<size>2035</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Pieces/MoveToEmpty.java</name>
+<size>1167</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Pieces/Pawn.java</name>
+<size>4480</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Pieces/Piece.java</name>
+<size>9817</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Pieces/Queen.java</name>
+<size>8889</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Pieces/Rook.java</name>
+<size>3604</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Player</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Player/Player.java</name>
+<size>12451</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Tests</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/BishopTest.java</name>
+<size>8352</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/BoardTest.java</name>
+<size>3888</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/EatOneAndDieTest.java</name>
+<size>4176</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/GameOverTest.java</name>
+<size>479</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/InCheckMateTest.java</name>
+<size>2108</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/InCheckTest.java</name>
+<size>742</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/KingTest.java</name>
+<size>9372</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/KnightTest.java</name>
+<size>9151</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/MoveToEmptyTest.java</name>
+<size>2876</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/PawnTest.java</name>
+<size>10892</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/QueenTest.java</name>
+<size>16057</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/RookTest.java</name>
+<size>10776</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/View</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessGui.java</name>
+<size>13823</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/View/ChessPiece</name>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/BlackBishop.png</name>
+<size>3344</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/BlackKing.png</name>
+<size>5038</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/BlackKnight.png</name>
+<size>4022</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/BlackPawn.png</name>
+<size>2199</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/BlackQueen.png</name>
+<size>5353</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/BlackRook.png</name>
+<size>2675</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/WhiteBishop.png</name>
+<size>4425</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/WhiteKing.png</name>
+<size>4859</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/WhiteKnight.png</name>
+<size>4389</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/WhitePawn.png</name>
+<size>3246</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/WhiteQueen.png</name>
+<size>5967</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessPiece/WhiteRook.png</name>
+<size>3184</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/Scoreboard.java</name>
+<size>2847</size>
+<commit
+   revision="5895">
+<author>festekj2</author>
+<date>2016-02-18T04:39:02.611449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea</name>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/Assignment2.0.iml</name>
+<size>9677</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea/inspectionProfiles</name>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/inspectionProfiles/Project_Default.xml</name>
+<size>256</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>235</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/misc.xml</name>
+<size>788</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea/runConfigurations</name>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/runConfigurations/Run_test__my_test___Assignment2_0.xml</name>
+<size>1905</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/workspace.xml</name>
+<size>58539</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/Tests</name>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Tests/flightdata_test.rb</name>
+<size>991</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Tests/test-data.txt</name>
+<size>1463</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/command_line.rb</name>
+<size>3800</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/data.txt</name>
+<size>16098</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/edge.rb</name>
+<size>687</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/edge_test.rb</name>
+<size>559</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/json_parser.rb</name>
+<size>1453</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/query.rb</name>
+<size>6649</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/query_test.rb</name>
+<size>1059</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/test-data.txt</name>
+<size>1464</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/vertex.rb</name>
+<size>1942</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/vertex_test.rb</name>
+<size>848</size>
+<commit
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea</name>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/Assignment2.0.iml</name>
+<size>11087</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea/inspectionProfiles</name>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/inspectionProfiles/Project_Default.xml</name>
+<size>256</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>235</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/misc.xml</name>
+<size>788</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea/runConfigurations</name>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/runConfigurations/Run_test__my_test___Assignment2_0.xml</name>
+<size>1911</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/workspace.xml</name>
+<size>62419</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Files</name>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Files/cmi_hub copy.txt</name>
+<size>1104</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Files/cmi_hub.txt</name>
+<size>2914</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Files/cmi_hub_backup.txt</name>
+<size>2914</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Files/data.txt</name>
+<size>35140</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Files/data_backup.txt</name>
+<size>16097</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Files/data_new_2.txt</name>
+<size>20178</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Files/data_save.txt</name>
+<size>31426</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Files/data_tester.txt</name>
+<size>16097</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Graph</name>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Graph/edge.rb</name>
+<size>558</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Graph/vertex.rb</name>
+<size>1010</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Tests</name>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Tests/ManualTestPlan.pdf</name>
+<size>1423366</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Tests/edge_test.rb</name>
+<size>580</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Tests/flightdata_test.rb</name>
+<size>1011</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Tests/json_save_test.rb</name>
+<size>458</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Tests/query_test.rb</name>
+<size>1949</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Tests/test-data.txt</name>
+<size>1799</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Tests/vertex_test.rb</name>
+<size>869</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/command_line.rb</name>
+<size>16682</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/json_parser.rb</name>
+<size>1676</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/query.rb</name>
+<size>12288</size>
+<commit
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.idea</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.idea/.name</name>
+<size>3</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.idea/copyright</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.idea/misc.xml</name>
+<size>1107</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.idea/modules.xml</name>
+<size>246</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.idea/workspace.xml</name>
+<size>32096</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.project</name>
+<size>362</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.settings</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/HW0.iml</name>
+<size>724</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/LANSimulation.class</name>
+<size>4472</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/Network.class</name>
+<size>8259</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/internals</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Node.class</name>
+<size>1214</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/tests</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1074</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests.class</name>
+<size>10232</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/doc</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5864</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/Network.java</name>
+<size>10750</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/internals</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Node.java</name>
+<size>5288</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/tests</name>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10331</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="2122">
+<author>festekj2</author>
+<date>2016-01-29T01:28:00.998501Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>assignment0</name>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>assignment0/.idea</name>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/.idea/.name</name>
+<size>9</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/.idea/cs447_HW1.iml</name>
+<size>398</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/.idea/misc.xml</name>
+<size>680</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/.idea/modules.xml</name>
+<size>270</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/.idea/workspace.xml</name>
+<size>13292</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/360verbsGuess.txt</name>
+<size>7453</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/bigram_output.txt</name>
+<size>3406</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/hw1_fst.py</name>
+<size>3425</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/hw1_lm.py</name>
+<size>21443</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/hw1_lm.py.bak</name>
+<size>10533</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/hw1_lm_fixed.py</name>
+<size>10534</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/hw1_lm_test.py</name>
+<size>3808</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/smooth_bigram_output.txt</name>
+<size>4723</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/smooth_unigram_output.txt</name>
+<size>6280</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>assignment0/unigram_output.txt</name>
+<size>5449</size>
+<commit
+   revision="2123">
+<author>festekj2</author>
+<date>2016-01-29T01:28:28.412930Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="2124">
+<author>festekj2</author>
+<date>2016-01-29T01:28:46.386464Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="2124">
+<author>festekj2</author>
+<date>2016-01-29T01:28:46.386464Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="2124">
+<author>festekj2</author>
+<date>2016-01-29T01:28:46.386464Z</date>
+</commit>
+</entry>
+</list>
+</lists>

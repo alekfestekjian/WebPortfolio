@@ -1,0 +1,47 @@
+<!doctype html>
+<title>CS 242 portfolio</title>
+
+<html lang="en">
+<head>
+
+</head>
+<div class="page">
+  <!-- Iterates through the svn list to match file's with the file path you clicked on to get iframe -->
+  {% for entry in svn_list %}
+         {% if entry["kind"] is equalto "file" %}
+         {% if entry["filename"] is equalto path %}
+           {% if entry["belongs"] is equalto directory %}
+               <iframe src="https://subversion.ews.illinois.edu/svn/sp16-cs242/festekj2/{{entry["filepath"]}}" style="width: 100%; height: 500px"></iframe>
+              <!-- {{entry["filepath"]}} -->
+             {% endif %}
+          {% endif %}
+       {% endif %}
+  {% endfor %}
+  <form action="{{path}}" method="post" class="add-entry">
+    <dl>
+      <dt>Title:
+      <dd><input type="text" size="30" name="title">
+      <dt>Text:
+      <dd><textarea name="text" rows="5" cols="40"></textarea>
+      <dd><input type="submit" value="Share">
+    </dl>
+  </form>
+  <ul class="entries">
+    {% for entry in entries %}
+  <li><h2>{{ entry.title }}</h2>{{ entry.text|safe }}
+    {% else %}
+  <li><em>Unbelievable.  No entries here so far</em>
+    {% endfor %}
+</ul>
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <ul class=flashes>
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+
+</div>
+</html>

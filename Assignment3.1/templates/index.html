@@ -1,0 +1,58 @@
+<!doctype html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CS 242 portfolio</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="../static/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../static/fonts.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<!--  Header div containing nav bar-->
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href="#">Alek Festekjian</a></h1>
+		</div>
+		<div id="menu">
+			<ul>
+				<li><a href="#" accesskey="3" title="">About Me</a></li>
+				<li><a  href="//alekfestekjian.com" target="_blank">Visit my portfolio!</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+
+<div id="portfolio" class="container">
+
+      {% set count = 1 %}
+      {% for entry in svn_list %}
+           {% if entry["assignment"] is defined %}
+           <div class="boxes">
+
+              <a href= "/{{entry["assignment"]}}" class="button">{{ entry["assignment"] }}</a>
+              <br><br>
+              <p>Last commit on {{entry["day"]}}/{{entry["month"]}}/{{entry["year"]}} at {{entry["hour"]}}:{{entry["minute"]}}:{{entry["second"]}} </p>
+
+							{# iterating through all logs to get assignments #}
+
+							{% for log in svn_log %}
+                {% if log["assignment"] is defined %}
+                  {% if log["assignment"] is equalto entry["assignment"] %}
+                    {% if log["date"] is equalto entry["date"] %}
+                      <p>Most recent commit: {{log["message"]}}</p>
+                    {% endif %}
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+              <p>Revision: {{entry["revision"]}}</p>
+            </div>
+
+
+           {% endif %}
+      {% endfor %}
+
+</div>
+</html>

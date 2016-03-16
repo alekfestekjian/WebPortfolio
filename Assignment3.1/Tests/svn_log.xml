@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7852">
+<author>festekj2</author>
+<date>2016-03-03T09:20:55.634947Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/festekj2/Assignment2.1</path>
+<path
+   kind="dir"
+   action="A">/festekj2/Assignment2.1/Graph</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/festekj2/Assignment2.1/Files</path>
+<path
+   kind="dir"
+   action="A">/festekj2/Assignment2.1/Tests</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/Tests/test-data.txt</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/query.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/Graph/edge.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/Tests/query_test.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/.idea/inspectionProfiles/Project_Default.xml</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/Tests/flightdata_test.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/Files/data_backup.txt</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/Tests/vertex_test.rb</path>
+<path
+   kind="dir"
+   action="A">/festekj2/Assignment2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/Graph/vertex.rb</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/Files/cmi_hub copy.txt</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/Files/cmi_hub.txt</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/command_line.rb</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/json_parser.rb</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/Files/data.txt</path>
+<path
+   action="A"
+   kind="dir">/festekj2/Assignment2.1/.idea/inspectionProfiles</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/Tests/ManualTestPlan.pdf</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/Tests/edge_test.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/Files/data_save.txt</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/Files/cmi_hub_backup.txt</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.1/Files/data_tester.txt</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/Files/data_new_2.txt</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/Tests/json_save_test.rb</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.1/.idea/runConfigurations/Run_test__my_test___Assignment2_0.xml</path>
+<path
+   kind="dir"
+   action="A">/festekj2/Assignment2.1/.idea/runConfigurations</path>
+</paths>
+<msg>adding 2.1</msg>
+</logentry>
+<logentry
+   revision="7094">
+<author>festekj2</author>
+<date>2016-02-25T22:51:35.968479Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/vertex.rb</path>
+<path
+   action="A"
+   kind="dir">/festekj2/Assignment2.0/.idea</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/command_line.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/data.txt</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/json_parser.rb</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.0/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.0/.idea/runConfigurations/Run_test__my_test___Assignment2_0.xml</path>
+<path
+   kind="dir"
+   action="A">/festekj2/Assignment2.0/.idea/inspectionProfiles</path>
+<path
+   kind="dir"
+   action="A">/festekj2/Assignment2.0/.idea/runConfigurations</path>
+<path
+   kind="dir"
+   action="A">/festekj2/Assignment2.0</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.0/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/festekj2/Assignment2.0/Tests</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/test-data.txt</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.0/edge_test.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/query_test.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/edge.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/Tests/test-data.txt</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/query.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/.idea/inspectionProfiles/Project_Default.xml</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/Tests/flightdata_test.rb</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.0/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/festekj2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/festekj2/Assignment2.0/vertex_test.rb</path>
+</paths>
+<msg>Assignment2.0</msg>
+</logentry>
+
+</log>

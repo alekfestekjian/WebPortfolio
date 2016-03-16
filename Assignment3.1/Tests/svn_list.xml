@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp16-cs242/festekj2">
+
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="3503">
+<author>festekj2</author>
+<date>2016-02-04T20:48:48.414829Z</date>
+</commit>
+</entry>
+
+</list>
+</lists>
