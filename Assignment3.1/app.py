@@ -71,15 +71,21 @@ def landing():
 #     flash('New entry was successfully posted')
 #     return redirect(url_for('iframe',path=file,directory=assignment))
 
-@app.route('/add', methods=['GET','POST'])
-def add_entry(assignment,file):
+@app.route('/add/<directory>/<path>', methods=['POST'])
+def add_entry(directory,path):
 
     db = get_db()
-    db.execute('insert into entries (title, text) values (?, ?)',
-               [request.form['title'], request.form['text']])
+    unique_file = directory + "-" + path
+    title = request.form['title']
+    text = request.form['text']
+    title,text = filter(request.form['title'],request.form['text'])
+    # db.execute('insert into entries (title, text,file) values (?, ?, ?)',
+            #    [request.form['title'], request.form['text'],unique_file])
+    db.execute('insert into entries (title, text,file) values (?, ?, ?)',
+               [title, text,unique_file])
     db.commit()
     flash('New entry was successfully posted')
-    return redirect(url_for('iframe',path=file,directory=assignment))
+    return redirect(url_for('iframe',path=path,directory=directory))
 
 # For when you click on a specific assignment
 @app.route('/<files>')
@@ -88,20 +94,30 @@ def files(files):
     return render_template('details.html',svn_list=svn_list[0],svn_log=svn_list[1],assignment=files)
 
 #showing an iframe of specifiecd file
-@app.route('/<assignment>/<file>', methods=['GET', 'POST'])
-def iframe(assignment,file):
+@app.route('/<directory>/<path>')
+def iframe(directory,path):
     svn_list = parser.parse_svn()
     db = get_db()
-    filter(request.form['title'],text)
-    # db.execute('insert into entries (title, text) values (?, ?)',
-            #    [request.form['title'], request.form['text']])
-    db.commit()
-    cur = db.execute('select title, text from entries order by id desc')
-    entries = [dict(title=row[0], text=row[1]) for row in cur.fetchall()]
+    # filter(request.form['title'],request.form['text'])
 
-    return render_template('iframe.html',svn_list=svn_list[0],svn_log=svn_list[1],path=file,directory=assignment,entries=entries)
+    db.commit()
+    cur = db.execute('select title, text, file from entries order by id desc')
+
+    entries = cur.fetchall()
+
+    return render_template('show_entries.html',svn_list=svn_list[0],svn_log=svn_list[1],path=path,directory=directory,entries=entries)
 
 def filter(title,text):
-    
+    db = get_db()
+    cur = db.execute('select * from naughty_words')
+    replace = cur.fetchall()
+    for word in replace:
+        if word[0] in title:
+            title = title.replace(word[0],word[1])
+        if word[0] in text:
+            text = text.replace(word[0],word[1])
+    return title,text
+
+
 if __name__ == '__main__':
     app.run(debug=True)
