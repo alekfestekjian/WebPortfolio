@@ -7,7 +7,8 @@ from flask import Flask, request, session, g, redirect, url_for, \
      abort, render_template, flash
 import parser
 
-
+# FOllowed
+#https://github.com/mitsuhiko/flask/blob/master/examples/flaskr/flaskr.py
 DATABASE = 'Data/flask.db'
 DEBUG = True
 SECRET_KEY = 'development key'
@@ -22,12 +23,13 @@ app.config.from_envvar('FLASKR_SETTINGS', silent=True)
 #DATABASE CODE
 def init_db():
     with closing(connect_db()) as db:
-        with app.open_resource('Data/schema.sql', mode='r') as f:
+        with app.open_resource('Test_Data/schema.sql', mode='r') as f:
             db.cursor().executescript(f.read())
         db.commit()
 
+
 def connect_db():
-    rv = sqlite3.connect('DATABASE')
+    rv = sqlite3.connect('TEST_DATABASE')
     rv.row_factory = sqlite3.Row
     return rv
     # return sqlite3.connect('DATABASE')
@@ -73,18 +75,29 @@ def landing():
 
 @app.route('/add/<directory>/<path>', methods=['POST'])
 def add_entry(directory,path):
-
     db = get_db()
     unique_file = directory + "-" + path
-    title = request.form['title']
-    text = request.form['text']
-    title,text = filter(request.form['title'],request.form['text'])
-    # db.execute('insert into entries (title, text,file) values (?, ?, ?)',
-            #    [request.form['title'], request.form['text'],unique_file])
-    db.execute('insert into entries (title, text,file) values (?, ?, ?)',
+    if request.form['text'] == "":
+        return redirect(url_for('iframe',path=path,directory=directory))
+    if request.form['title'] == "":
+        return redirect(url_for('iframe',path=path,directory=directory))
+
+    if request.form['reply'] == "":
+        title = request.form['title']
+        text = request.form['text']
+        title,text = filter(request.form['title'],request.form['text'])
+        db.execute('insert into entries (title, text,file) values (?, ?, ?)',
                [title, text,unique_file])
-    db.commit()
-    flash('New entry was successfully posted')
+        db.commit()
+    else:
+        title = request.form['title']
+        text = request.form['text']
+        reply = request.form['reply']
+        title,text = filter(request.form['title'],request.form['text'])
+        print('This is STUPID')
+        db.execute('insert into reply_entries (parent_id,title, text,file) values (?, ?, ?,?)',
+               [str(reply),title, text,unique_file])
+        db.commit()
     return redirect(url_for('iframe',path=path,directory=directory))
 
 # For when you click on a specific assignment
@@ -101,11 +114,12 @@ def iframe(directory,path):
     # filter(request.form['title'],request.form['text'])
 
     db.commit()
-    cur = db.execute('select title, text, file from entries order by id desc')
+    comment = db.execute('select title, text, file,id from entries order by id desc')
+    replies = db.execute('select title,text,parent_id from reply_entries order by child_id desc')
 
-    entries = cur.fetchall()
-
-    return render_template('show_entries.html',svn_list=svn_list[0],svn_log=svn_list[1],path=path,directory=directory,entries=entries)
+    entries = comment.fetchall()
+    replies = replies.fetchall()
+    return render_template('show_entries.html',svn_list=svn_list[0],svn_log=svn_list[1],path=path,directory=directory,entries=entries,replies=replies)
 
 def filter(title,text):
     db = get_db()

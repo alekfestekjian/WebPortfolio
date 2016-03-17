@@ -44,7 +44,7 @@
 
 	a
 	{
-		color: #458f0b;;
+		color:  #458f0b;;
 	}
 
 	a:hover
@@ -187,7 +187,28 @@
 /*********************************************************************************/
 /* Button Style                                                                  */
 /*********************************************************************************/
-
+	iframe{
+		background: #FFF;
+	}
+	#comments{
+		padding-left: 3em;
+		color: #458f0b;
+	}
+	#replies{
+		padding-left: 5em;
+		color: #006400;
+	}
+	#username{
+		padding-left: 2em;
+		color: #006400;
+	}
+	#reply-text{
+		padding-left: 7em;
+		color: #458f0b;
+	}
+	form{
+		padding-left: 2em;
+	}
 	.button
 	{
 		display: inline-block;

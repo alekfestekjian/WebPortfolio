@@ -1,4 +1,4 @@
-import parser
+import parser_test
 def parse():
     x,y = parser_test.parse_svn()
     print(x)

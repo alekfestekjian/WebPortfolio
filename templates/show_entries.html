@@ -1,0 +1,35 @@
+{% extends "iframe.html" %}
+{% block body %}
+
+
+  <ul class="entries">
+  {% for entry in entries %}
+
+    {% if entry.file == (directory + "-" + path) %}
+
+    <li id="username"><h4> {{ entry.title }} : id-{{entry.id}}</h4></li>
+      <p id="comments">{{ entry.text|safe }}
+        {% for reply in replies %}
+          {% if entry.id|string == reply.parent_id %}
+              <li id="replies"><h4>{{ reply.title }}</h4></li>
+              <p id="reply-text">{{ reply.text|safe }}</p>
+          {% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
+  {% endfor %}
+  </ul>
+  <form action="{{ url_for('add_entry',directory=directory,path=path) }}" method="post" class="add-entry" id="form-input">
+    <dl>
+      <dt id="user">Username:</dt>
+      <dd ><input type="text" size="30" name="title" placeholder="Enter your username"></dd>
+      <dt id="comment">Comment:</dt>
+      <dd><textarea name="text" rows="5" cols="40" placeholder="Enter your comment here"></textarea></dd>
+      <dt id="reply">Reply to:</dt>
+      <dd><input name="reply" size="5" value="" placeholder="id"></dd>
+      <dd><input type="submit" value="comment"></dd>
+    </dl>
+  </form>
+
+
+{% endblock %}
